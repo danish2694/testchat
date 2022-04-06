@@ -25,7 +25,7 @@ incremental==17.5.0
 msgpack==0.6.2
 pytz==2019.3
 redis
-Twisted==20.3.0
+Twisted==22.2.0
 txaio==20.4.1
 zope.interface==5.1.0
 wheel==0.31.1
